@@ -1,9 +1,11 @@
 ---
-title: "Rebuilding michaelrad.me"
+title: Rebuilding michaelrad.me
 date: 2026-05-03
-description: "Moving off Gamma. New stack, same story — with room for what's next."
+description: Moving off Gamma. New stack, same story — with room for what's next.
 draft: false
-tags: [meta, building-in-public]
+categories:
+  - meta
+  - building-in-public
 ---
 
 Until this week, michaelrad.me lived on Gamma. Gamma was good for what I needed in 2024 — a one-page narrative, polished, no maintenance — but it had no surface for the work I'm doing now. No blog, no "what I'm working on," no place to drop ARC or Vibe Check beside the longer Holstee story.

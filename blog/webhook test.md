@@ -1,10 +1,12 @@
 ---
-title: "Runway Week 1: Calibrate"
+title: Testing webhook
 date: 2026-05-11
-description: "Two blog refreshes shipped, the first monthly health report, and a Pinterest decision."
+description: added auto update to this site
 draft: false
-categories: [holstee, automation]
-slug: runway-week-1-calibrate
+tags:
+  - holstee
+  - automation
+slug: webhook-test
 ---
 
 First week of [Runway](/blog/back-to-holstee/). Felt like a turning-the-corner kind of week. A few things I'd been chipping away at for a while actually shipped, and a couple of decisions I'd been sitting on got made.
@@ -27,4 +29,4 @@ Top-of-funnel is the explicit priority for Holstee right now. The blog refreshes
 
 **On deck**
 
-Help Scout assessment. Roel benchmark scorecard polish. Amazon data-room readiness. Slack `#notify` referrer audit.
+Help Scout assessment. Benchmark scorecard polish. Amazon data-room readiness. Slack `#notify` referrer audit.

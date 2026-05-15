@@ -3,7 +3,7 @@ title: "Back to Holstee, for a sprint"
 date: 2026-05-04
 description: "Stepping back in part-time for an 8-week run to modernize what's worth modernizing."
 draft: false
-tags: [holstee, automation]
+categories: [holstee, automation]
 slug: back-to-holstee
 ---
 
