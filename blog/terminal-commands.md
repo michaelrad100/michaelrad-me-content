@@ -1,5 +1,7 @@
 ---
 title: "Terminal commands"
+date: 2026-05-15
+description: "Quick reference for pushing content to the site."
 draft: true
 ---
 
