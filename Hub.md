@@ -26,8 +26,9 @@ Drafts (`draft: true`) can be pushed freely — the build filters them out, so t
 
 ## Recent notes
 
-- 2026-05-11 — [[blog/2026-05-11-runway-week-1-calibrate|Runway Week 1: Calibrate]] — first weekly recap of the Holstee Runway sprints. Tagged `holstee`, `automation`.
-- 2026-05-04 — [[blog/2026-05-04-back-to-holstee|Back to Holstee, for a sprint]] — intro post announcing the 8-week Runway series. Tagged `holstee`, `automation`.
+- 2026-05-11 — [[blog/2026-05-11-runway-week-1-calibrate|Runway Week 1: Calibrate]] — second check-out: Social Comparison refresh, April Health Report v0, Pinterest API decision, strategic check-in. Categorized `holstee`, `automation`.
+- 2026-05-05 — [[blog/2026-05-05-runway-week-0-setting-up|Runway Week 0: Setting up]] — first check-out: Sprint Plan locked, 14 governing decisions, Neurons refresh shipped via API, the published_at incident. Categorized `holstee`, `automation`.
+- 2026-05-04 — [[blog/2026-05-04-back-to-holstee|Back to Holstee, for a sprint]] — series intro announcing the 8-week Runway period. Categorized `holstee`, `automation`.
 - 2026-05-03 — [Session Log](file:///Users/michaelradparvar/Documents/claude/code/michaelrad.me/site/docs/session-log.md) — paused mid-Phase-4 just before Railway project creation. Phases 0–3 done, both repos on GitHub.
 
 ---

@@ -1,30 +1,60 @@
 ---
 title: "Runway Week 1: Calibrate"
 date: 2026-05-11
-description: "Two blog refreshes shipped, the first monthly health report, and a Pinterest decision."
+description: "Two refreshes shipped, the April health report ran, and the Pinterest API saga ended in a clean decision."
 draft: false
 categories: [holstee, automation]
 slug: runway-week-1-calibrate
 ---
 
-First week of [Runway](/blog/back-to-holstee/). Felt like a turning-the-corner kind of week. A few things I'd been chipping away at for a while actually shipped, and a couple of decisions I'd been sitting on got made.
+Felt like a turning-the-corner kind of week. A few things I'd been chipping away at for a while actually shipped, a couple of decisions I'd been sitting on got made, and a mid-week strategic check-in clarified the priority for the rest of Runway in a way that made everything downstream simpler.
 
-**What shipped**
+Sprint 1 is essentially closed. Chunks of Sprint 2 got pulled forward into next week.
 
-Two blog refreshes. Neurons That Fire Together went up Monday, the first refresh ever published via API instead of pasting into the Shopify admin. Social Comparison Theory followed Wednesday, a day ahead of target.
+**The second refresh: Social Comparison Theory**
 
-April Monthly Health Report v0. First end-to-end manual run of a 12-section read on the company. Built a Connections Registry alongside it as the single source of truth for the data sources. Six of twelve are now programmatic. The rest are manual CSV by choice for now.
+Last week's check-out covered the [Neurons refresh](/blog/runway-week-0-setting-up/) and the new API-driven publish flow. This week, [Social Comparison Theory](https://www.holstee.com/blogs/mindful-matter/social-comparison-theory) shipped Wednesday, a day ahead of schedule.
 
-Caught a real error mid-run. The original "active+trialing membership, 346 this April vs 522 last April" looked like a 34% drop. Turned out April 2025 had a one-off promo that put 186 trialers in the count. Apples-to-apples, paying-only, the year was essentially flat. Fixed the script, re-ran, updated the TL;DR. Trusting a gut feel on a number that "felt off" is worth more than I tend to credit.
+If Neurons was an asset converting poorly, Social Comparison Theory is closer to an asset *invisible*. 243,366 impressions a year, 106 clicks. CTR of 0.04% — the lowest of any candidate in our refresh backlog. Average position 10.74, straddling the page 1 / page 2 boundary.
 
-**Decisions I made**
+The diagnosis was sharper than usual. The current SEO title was `How do you compare? – Holstee`. A clever Holstee-voice headline, but one that contains zero of the search terms readers are actually typing. The verbatim head query (`social comparison theory`, 79K impressions a year) was in the URL slug only. Google was matching the URL plus body content strongly enough to rank pos 10–12, but every reader scanning a SERP saw a title that didn't answer their question and clicked SimplyPsychology or Wikipedia instead.
 
-Paused the Pinterest API pursuit. OAuth landed (81 boards readable), but the Trial tier is sandbox-only despite docs saying otherwise, and the Standard upgrade requires a video demo plus indefinite review. Time already sunk had overrun the cost of doing pins manually for a year. Going manual through August, UTM-tagging every pin so we can measure whether Pinterest is worth continuing to invest in.
+So the highest-leverage move was the simplest one: rewrite the title to actually contain the head query. Same body shape as Neurons (definition, attribution, FAQ, original Holstee voice in the middle), same publish path (one API call). Conservative scenario, just from the title fix and structure: a 34× lift in clicks. We'll know within 30 to 90 days whether the model holds.
 
-**What I'm thinking about**
+Both refreshes have 14/30/60/90-day Search Console checks scheduled to fire automatically. By August we'll know whether the format is moving the needle or just feels good.
 
-Top-of-funnel is the explicit priority for Holstee right now. The blog refreshes are one investment in that. Thinking about what the next one or two should be. Roel scorecard work this week should sharpen the picture.
+**April Monthly Health Report v0**
+
+This was Sprint 1's banner deliverable: the first end-to-end manual run of a 12-section read on the company. TL;DR plus per-section narrative plus a 12-entry "what was painful" log. Built a Connections Registry alongside it as the single source of truth for the 12 data sources. Six are now programmatic (newly: GA4 OAuth and Stripe historical reconstruction). The remaining six stay manual CSV by choice for now.
+
+The most useful thing that happened during the run was an error I caught.
+
+The original "active+trialing membership: 346 in April 2026 versus 522 in April 2025" looked like a brutal year-over-year drop, around 34%. My gut said the number felt off. We'd have noticed losing a third of our base. Dug in: April 2025 had a one-off promo that put 186 trialers in the count that month. Apples-to-apples on paying members only, the year was essentially flat: 336 → 329. Re-ran the script with the corrected definition, updated the TL;DR, captured the lesson.
+
+The fact-checking instinct on a number that "felt off" is more reliable than I tend to credit, and worth slowing down for. The Health Report also only really earns its keep when the comparisons it surfaces are honest, which means defining "trialing" and "paying" and "active" precisely and consistently is half the work.
+
+**Pinterest API: the saga ends**
+
+Got OAuth working this week. 81 boards readable. Then ran into Pinterest's documentation being misleading about Trial-tier capabilities. The Trial tier turns out to be sandbox-only despite what the docs say, and the Standard upgrade requires a video demo plus indefinite review. Time I'd already sunk had overrun the cost of doing pins manually for the rest of the year.
+
+Pulled the plug. Going manual through August, UTM-tagging every pin URL so we can measure pin to site traffic at the August review and decide then whether Pinterest is worth investing in further. Decision was easier to make than expected once I named the actual cost and benefit side by side.
+
+**Strategic check-in with Amy + Dave**
+
+Mid-week call to align on priorities for the Runway window. Three things came out of it.
+
+Top-of-funnel is the explicit priority. The phrase Amy used: "we have a top-of-funnel problem." Everything else I'm doing, the refreshes, the Health Report, the Help Scout work, is in service of that or in service of making the work more legible to the team.
+
+My role frame got clearer: contributor and builder. The face-of-the-community piece stays with the team. Useful to have that named explicitly, since "founder coming back" carries a default expectation I didn't want to inherit.
+
+Kindreds (a community structure we've been iterating on) is pivoting to a time-zone-driven, member-led pilot. Different shape than where we'd been heading. Felt right.
+
+**Sprints 2A and 2B pulled forward**
+
+Help Scout assessment and the Roel benchmark scorecard were both originally Sprint 2 work for the week of May 19. Both ended up substantially started this week. The Roel scorecard is 5 of 7 sub-tasks done, with 15 levers across 7 categories captured. The Help Scout 90-day data pull surfaced that the Productivity sub-report isn't on our plan tier, so we're pivoting to the Conversations CSV. When sprint work runs ahead of schedule, the right move is usually to pull more in, not slow down.
 
 **On deck**
 
-Help Scout assessment. Roel benchmark scorecard polish. Amazon data-room readiness. Slack `#notify` referrer audit.
+Close out the April Health Report (final pass on the TL;DR plus the "what was painful" log). Help Scout assessment full workflow Mon to Fri. Roel scorecard polish with April numbers and projected November targets. Amazon data-room readiness, which is acquisition packaging done pre-emptively. Slack `#notify` referrer-tracking audit.
+
+Six items on the slate. Not light. Everything compounds toward the same priority.
