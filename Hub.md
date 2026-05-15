@@ -14,12 +14,13 @@
 - **`blog/`** — one .md per post. Currently has the smoke-test post `2026-05-03-rebuilding-michaelrad-me.md`.
 - **`now.md`** — rolling "what I'm working on now" page (placeholder content, replace pre-launch).
 
-## How publishing works (post-launch)
+## How publishing works
 
-1. Edit a post in `blog/` or update `now.md` here.
+1. Edit a post in `blog/` or update `now.md` here. Set `draft: false` in frontmatter when ready to publish (omit or `true` keeps it private).
 2. From this folder: `git add . && git commit -m "..." && git push`
-3. From the site repo: `git submodule update --remote content-vault && git add content-vault && git commit -m "Update content" && git push`
-4. Railway auto-rebuilds (~30–60s).
+3. Done. A GitHub Action on this repo (`.github/workflows/trigger-rebuild.yml`) auto-pushes an empty commit to the site repo, which triggers Railway to rebuild and re-clone this content. Live in ~60s.
+
+Drafts (`draft: true`) can be pushed freely — the build filters them out, so they never appear on the site.
 
 ---
 
@@ -33,8 +34,8 @@
 
 ## Tasks
 
-- [ ] **Next:** Create Railway project from `michaelrad-me` repo, grant access to both repos, verify build #site ⏫
-- [ ] Apply Railway one-year free coupon #site
+- [x] **Next:** Create Railway project from `michaelrad-me` repo, grant access to both repos, verify build #site ⏫ ✅ 2026-05-14
+- [x] Apply Railway one-year free coupon #site ✅ 2026-05-14
 - [ ] Set custom domain (`michaelrad.me` + `www.michaelrad.me`) in Railway #site
 - [ ] Update DNS at registrar to point at Railway's CNAME target #site
 - [ ] Verify all 4 routes load on the live domain, cancel Gamma #site
