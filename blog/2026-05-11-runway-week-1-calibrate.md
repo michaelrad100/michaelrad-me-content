@@ -25,9 +25,17 @@ Both refreshes have 14/30/60/90-day Search Console checks scheduled to fire auto
 
 **April Monthly Health Report v0**
 
-This was Sprint 1's banner deliverable: the first end-to-end manual run of a 12-section read on the company. TL;DR plus per-section narrative plus a 12-entry "what was painful" log. Built a Connections Registry alongside it as the single source of truth for the 12 data sources. Six are now programmatic (newly: GA4 OAuth and Stripe historical reconstruction). The remaining six stay manual CSV by choice for now.
+This was Sprint 1's banner deliverable: the first end-to-end manual run of a 12-section read on the company. TL;DR plus per-section narrative plus a 12-entry "what was painful" log.
 
-The most useful thing that happened during the run was an error I caught.
+The report draws from 12 data sources. Up until this point, much of that data was manually gathered. Once a month someone walked a recurring loop, Stripe → Shopify → GA → Search Console → Klaviyo → Circle → QuickBooks → Pinterest → Meta Ads → Faire wholesale → and so on, exporting CSVs and copying KPIs into the KPI sheet, the master spreadsheet that fed the report. That work took most of a day. Meticulous, low-creativity, and only the first step before any actual interpretation could begin.
+
+We're partway out of that loop. I built a Connections Registry alongside the Health Report as the single source of truth for every programmatic connection. Six of the 12 sources are now scripted end-to-end: Shopify (orders + inventory), Stripe (auto-pulled monthly on a launchd schedule), GA4 (OAuth flow, newly added this week), Google Search Console, Pinterest analytics, and Klaviyo. Circle for community is partially scripted (most things, plus a custom script for event attendance). Slack is wired in too, as a qualitative gap-filler for the moments where the numbers don't tell the whole story. The remaining six stay manual CSV by choice. The cost to automate the ones we touch infrequently (Meta Ads, Faire wholesale payouts) is higher than the cost to keep exporting them by hand.
+
+What that shift actually unlocks is the time previously spent on the gathering. We can spend it instead on the part of the work that creates value: looking at the numbers, asking why, writing the narrative, capturing the "what was painful" entries that become next month's automation backlog. The qualitative layer on top of the quantitative pull is where the report starts earning its keep.
+
+I think more small companies will move in this direction as these tools become readily available. A few years ago, the data engineering work to compose a real monthly health report from a dozen disparate sources sat outside the budget of a 5-person company. Now it's a weekend's setup per source. For resource-tight teams that still want a real read on their own business, the unlock is significant. It moves the work from maintenance mode (keeping the lights on with manual refreshes) toward the activities that actually create value, for customers and for the business.
+
+The most useful thing that happened during the run itself was an error I caught.
 
 The original "active+trialing membership: 346 in April 2026 versus 522 in April 2025" looked like a brutal year-over-year drop, around 34%. My gut said the number felt off. We'd have noticed losing a third of our base. Dug in: April 2025 had a one-off promo that put 186 trialers in the count that month. Apples-to-apples on paying members only, the year was essentially flat: 336 → 329. Re-ran the script with the corrected definition, updated the TL;DR, captured the lesson.
 
