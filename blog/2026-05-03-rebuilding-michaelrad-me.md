@@ -11,6 +11,8 @@ Until last week, michaelrad.me lived on Gamma. Gamma was good for what I needed 
 
 The stack is Astro for the static site, Railway for hosting, and the blog and "now" page authored as plain markdown in my Obsidian vault. That last piece is the one I care most about. I write almost everything in Obsidian, meeting notes, weekly recaps, half-formed ideas. Building the site so the blog lives there too means writing a post is the same motion as writing any other note. No separate CMS, no friction tax.
 
+![[CleanShot 2026-05-15 at 09.21.05.png]]
+
 A few decisions I made along the way that I think were right.
 
 **Static, not server-rendered.** Astro can do server-rendering. I deliberately stayed static. The entire site is just HTML files, and "moving hosts" is half an hour, not three days. Railway today, somewhere else tomorrow if Railway raises prices or breaks. Optionality is cheap when you build for it from the start.
@@ -25,4 +27,4 @@ A few decisions I made along the way that I think were right.
 
 What I'd do differently: I tried bridging the two repos with a git submodule, which is the textbook approach. It worked locally, but Railway's build container strips the `.git` directory before the build runs, so `git submodule update` had nothing to work against. After fighting it for a session, I switched to just `git clone` the content repo directly in the build command. Less elegant. Works first time. The lesson is one I keep relearning. When the elegant approach fights the platform, switch to the dumb one.
 
-The site is live at michaelrad.me. The first posts about Holstee Runway are up. More to come.
+It's been a fun and empowering experience, thinking through and building this with Claude Code. What a time to be alive. 
