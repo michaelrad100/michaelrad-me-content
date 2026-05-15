@@ -51,10 +51,10 @@ Kindreds (a community structure we've been iterating on) is pivoting to a time-z
 
 **Sprints 2A and 2B pulled forward**
 
-Help Scout assessment and the Roel benchmark scorecard were both originally Sprint 2 work for the week of May 19. Both ended up substantially started this week. The Roel scorecard is 5 of 7 sub-tasks done, with 15 levers across 7 categories captured. The Help Scout 90-day data pull surfaced that the Productivity sub-report isn't on our plan tier, so we're pivoting to the Conversations CSV. When sprint work runs ahead of schedule, the right move is usually to pull more in, not slow down.
+Help Scout assessment and the benchmark scorecard were both originally Sprint 2 work for the week of May 19. Both ended up substantially started this week. The scorecard is 5 of 7 sub-tasks done, with 15 levers across 7 categories captured. The Help Scout 90-day data pull surfaced that the Productivity sub-report isn't on our plan tier, so we're pivoting to the Conversations CSV. When sprint work runs ahead of schedule, the right move is usually to pull more in, not slow down.
 
 **On deck**
 
-Close out the April Health Report (final pass on the TL;DR plus the "what was painful" log). Help Scout assessment full workflow Mon to Fri. Roel scorecard polish with April numbers and projected November targets. Amazon data-room readiness, which is acquisition packaging done pre-emptively. Slack `#notify` referrer-tracking audit.
+Close out the April Health Report (final pass on the TL;DR plus the "what was painful" log). Help Scout assessment full workflow Mon to Fri. Benchmark scorecard polish with April numbers and projected November targets. Amazon data-room readiness, which is acquisition packaging done pre-emptively. Slack `#notify` referrer-tracking audit.
 
 Six items on the slate. Not light. Everything compounds toward the same priority.
