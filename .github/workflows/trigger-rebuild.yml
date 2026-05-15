@@ -1,0 +1,23 @@
+name: Trigger Railway rebuild
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout site repo
+        uses: actions/checkout@v4
+        with:
+          repository: michaelrad100/michaelrad-me
+          token: ${{ secrets.SITE_REPO_TOKEN }}
+          ref: main
+
+      - name: Push empty commit to trigger Railway
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "Trigger rebuild: content vault updated (${GITHUB_SHA::7})"
+          git push
