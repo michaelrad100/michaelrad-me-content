@@ -2,7 +2,7 @@
 title: "Runway Week 2: Underneath"
 date: 2026-05-18
 description: "Kim's 14-year KPI sheet started filling itself in, QuickBooks came off manual export, and Google's AI Overview showed up in the search numbers."
-draft: true
+draft: false
 categories: [holstee, automation]
 slug: runway-week-2-underneath
 ---
