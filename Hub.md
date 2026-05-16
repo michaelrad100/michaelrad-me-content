@@ -26,6 +26,8 @@ Drafts (`draft: true`) can be pushed freely — the build filters them out, so t
 
 ## Recent notes
 
+- 2026-05-18 — [[blog/2026-05-18-runway-week-2-underneath|Runway Week 2: Underneath]] — third check-out (draft, publishes Mon): KPI sheet automation, AI Overview absorption, the $11K Amazon decision, #notify attribution rebuilt. Categorized `holstee`, `automation`.
+- 2026-05-15 — [[Career/Dave site feedback - michaelrad.me - 2026-05-15|Dave's site feedback]] — call reviewing the new site: homepage, About copy, blog, voice. Voice rewrite is the priority.
 - 2026-05-11 — [[blog/2026-05-11-runway-week-1-calibrate|Runway Week 1: Calibrate]] — second check-out: Social Comparison refresh, April Health Report v0, Pinterest API decision, strategic check-in. Categorized `holstee`, `automation`.
 - 2026-05-05 — [[blog/2026-05-05-runway-week-0-setting-up|Runway Week 0: Setting up]] — first check-out: Sprint Plan locked, 14 governing decisions, Neurons refresh shipped via API, the published_at incident. Categorized `holstee`, `automation`.
 - 2026-05-04 — [[blog/2026-05-04-back-to-holstee|Back to Holstee, for a sprint]] — series intro announcing the 8-week Runway period. Categorized `holstee`, `automation`.
