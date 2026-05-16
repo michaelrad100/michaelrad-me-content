@@ -11,13 +11,13 @@ Some weeks the work shows up on the website. This wasn't one of them. No refresh
 
 Back in [Week 0](/blog/runway-week-0-setting-up/) I wrote about wanting to skip ahead and build the reporting automation, and making myself wait until I'd run the process by hand first. This was the week the wait ended. The whole thing happened underneath, and it was the most satisfying week of Runway so far.
 
-**Kim's KPI sheet fills itself in now**
+**The KPI sheet fills itself in now**
 
-Kim has kept a KPI sheet since 2012. Every month a new row goes in: web traffic, Shopify sales and conversion rate, wholesale, membership, the accounting numbers. Fourteen years of the business sitting in one spreadsheet, every cell of it typed in by hand from a dozen separate dashboards.
+Holstee has kept a KPI sheet since 2012. Every month a new row goes in: web traffic, Shopify sales and conversion rate, wholesale, membership, the accounting numbers. Fourteen years of the business sitting in one spreadsheet, every cell of it typed in by hand from a dozen separate dashboards.
 
-That row assembles itself now. Five scripts pull the numbers, an orchestrator drops a draft row into the sheet, and Kim reviews it instead of building it. The accounting figures alone used to mean a manual QuickBooks export every month, and those come through an API now too.
+That row assembles itself now. Five scripts pull the numbers, an orchestrator drops a draft row into the sheet, and it gets reviewed instead of built from scratch. The accounting figures alone used to mean a manual QuickBooks export every month, and those come through an API now too.
 
-We checked it against her April numbers before trusting it with anything. Shopify revenue matched to the cent. Conversion rate matched. Wholesale matched across five straight months. Web traffic came in within half a percent. There's a particular kind of confidence that only arrives when a script reproduces a number a person built by hand. That was this week.
+We checked it against the hand-entered April numbers before trusting it with anything. Shopify revenue matched to the cent. Conversion rate matched. Wholesale matched across five straight months. Web traffic came in within half a percent. There's a particular kind of confidence that only arrives when a script reproduces a number a person built by hand. That was this week.
 
 One thing surfaced while building it. The membership numbers were supposed to come from Circle, the platform our community runs on. Circle, it turns out, exposes no billing data through its API at all. So we pulled membership straight from Stripe, which sits below Circle and is where the money actually moves.
 
@@ -35,11 +35,11 @@ I don't have a tidy answer for this yet. We refreshed these posts to turn impres
 
 **The $11,000 Amazon question**
 
-An agency called GNO pitched us four months and eleven thousand dollars to optimize Holstee's Amazon channel. It's real work, and they would probably do it well.
+An agency pitched us four months and eleven thousand dollars to optimize Holstee's Amazon channel. It's real work, and they would probably do it well.
 
-Before signing anything, I wrote up what a first pass would look like done in-house: a listing audit for each product, a keyword and search-term review, a look at how the ad campaigns are built, pricing and reviews, and a ranked list of what to fix over the next two or three months. Most of that is within reach. The real gaps are product photography and A+ content design, the parts that need a designer.
+Before committing to it, the team scoped what a first pass could cover in-house: a listing audit for each product, a keyword and search-term review, a look at how the ad campaigns are built, pricing and reviews, and a ranked list of what to fix over the next couple of months. Most of that is within reach. The real gaps are product photography and A+ content design, the parts that need a designer.
 
-So the audit goes into a June sprint instead of a check going out now. If the in-house pass shows the channel needs more than we can give it, the agency conversation is still there, and we'll walk into it with a sharper question. A sharper question is a cheaper one to hand an agency.
+So the audit goes into a June sprint instead of a check going out now. If the in-house pass shows the channel needs more than we can do ourselves, the agency conversation is still there, and we'll walk into it with a sharper question. A sharper question is a cheaper one to hand an agency.
 
 **#notify can see again**
 
@@ -51,6 +51,6 @@ I traced it to a broken Zapier setup and rebuilt both notifications. Orders now 
 
 **On deck**
 
-The KPI sheet gets its first live run with the May close. That's the real test, the auto-built row next to the one Kim would have built herself. The 30-day checks on Enjoying the Little Things and Best Journaling Apps land at the end of the month and should tell us whether the AI Overview pattern holds. Amazon API credentials are still working their way through. And the next refresh candidate gets pulled from the backlog.
+The KPI sheet gets its first live run with the May close. That's the real test, the auto-built row next to the one built by hand. The 30-day checks on Enjoying the Little Things and Best Journaling Apps land at the end of the month and should tell us whether the AI Overview pattern holds. Amazon API credentials are still working their way through. And the next refresh candidate gets pulled from the backlog.
 
 Back to work that's visible from the outside next week.
