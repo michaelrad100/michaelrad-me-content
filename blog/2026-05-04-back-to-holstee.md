@@ -6,13 +6,18 @@ draft: false
 categories: [holstee, automation]
 slug: back-to-holstee
 ---
+In January 2025 begin to phase out my day to day involvement in Holstee. I was lucky to have a team in place that I could hand off my key responsibilities too. The timing coincided our 15 year anniversary and the forthcoming arrival of our third daughter and a feeling of building burn out. In 15 years I have never really taken an extended break and my body and mind needed it. 
 
-I stepped back from Holstee operations in 2025 after 15 years. The plan was to read, travel, sit with what was next. I did all three. By the spring, I had enough quiet to know I wanted to come back, but not in the same shape. The company had been running fine without me. I didn't want to undo that.
+My plan was to make space to explore what type of change I might want to make professionally. I happily got to spend with our new our new baby and tried my best to lean into the uncertainty. I didn't realize how tightly I held my identity as a founder/ leader until I let go. It was both a feeling of relief and groundlessness in the same breath.
 
-So we put together something deliberately bounded. Eight weeks, part-time. Four 2-week sprints we're calling Calibrate, Examine, Build, and Land. May 5 through June 29. Hard stop after that for summer travel.
+Emma was born in March 2026 and nothing quite narrows your vision like a baby. Having time to spend with her and see how her two older sisters mature and step into motherly roles was an absolute.
 
-I'm in as a contributor. The team owns the front of the house and that's working. My job is to look at the operational layer with some fresh distance and call out what's worth modernizing. Some of that is shipping new things across the content engine, support workflow, and monthly reporting. Some of it is naming what we've been doing implicitly so the next person can pick it up.
+Though within a month I itching get back to thinking about what's next.
 
-I'm going to write a weekly check-out here, mirroring what I share with the team in Slack on Mondays. Writing for anyone curious about how a small mission-driven company actually runs in 2026, what stops working when the founder steps away, and what comes back when you put attention on it again.
+I felt this incredible to desire to take on a role in a very different industry. So I enterained discussions with friends in fields from Nuclear energy (big believer in sodium cooled gen IV SMR reactors) to home services where I took on a consulting project for a few months and quickly immersed myself into the garage door installation business. Meanwhile the world of AI entered it's cambrian era with new tools large steps forward each month. Like many I was amazed and couldn't help but get immersed. I could see how a small 'legacy' business could automate so much of the daily clerical tasks, allowing a lean team to punch far above their weight. A great place to see how effectively I could experiment and put this into practice was right under my nose, Holstee.
 
-First two check-outs are up. New ones every Monday through June.
+I'm in as a contributor (apparently [this is now a thing](https://www.elenaverna.com/p/ic-work-is-the-new-career-flex?utm_source=cross-post&publication_id=1435249&post_id=197715098&utm_campaign=10845&isFreemail=false&r=37ut5&triedRedirect=true&utm_medium=email)), with weekly sprints are cleanly scoped out and driving a much larger impact than I ever thought possible. I have to say the feeling of taking a manual repetitive task, like monthly kpi ledger, which we've tracked by hand for 10+ years in a gdoc and having it programmatically populate each month is work that I find incredibly satisfying. 
+
+I have a juicy list of fix's like this within Holstee that I plan to knock out one at a time. As of right now, I see this as a temporary role with an uncertain enddate.
+
+I do know that I don't feel called to be  the leader, or face of Holstee. I do want to learn all the way I can help holstee become a better business, as highly focused operator within the business. 
