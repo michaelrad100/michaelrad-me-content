@@ -1,13 +1,9 @@
 ---
 title: Now
-updated: 2026-05-03
+updated: 2026-05-26
 ---
 
-*Placeholder. Replace with the first real /now entry once the site is live.*
-
-Currently:
-
-- Rebuilding this site — off Gamma, onto Astro/Railway with the blog and this page authored in Obsidian.
+- Back at Holstee part-time on special projects, building AI tooling so the team can spend less time on maintenance and more on growth. [Recap](/blog/back-to-holstee/).
 - Iterating on [Vibe Check](https://vibecheck.michaelrad.me).
-- Reflecting on what's next after stepping back from Holstee operations last year.
 - Climbing, family, Los Angeles.
+- Rebuilding this site, off Gamma onto Astro/Railway with the blog and this page authored in Obsidian.
