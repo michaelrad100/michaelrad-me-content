@@ -28,6 +28,7 @@ Drafts (`draft: true`) can be pushed freely — the build filters them out, so t
 
 ## Recent notes
 
+- 2026-05-26 — [[blog/2026-05-26-permit-data-playbook|Permit data, contractors, and a 35% lift]] — retrospective recap of the spring 2025 garage-door consulting engagement, surfaced into a Recent Work card. Categorized `career`, `home-services`.
 - 2026-05-26 — [[how-i-work|How I work]] — extracted from `index.astro` so the home page contact section is now editable from Obsidian.
 - 2026-05-26 — [[about|About]] — extracted from `index.astro` so the home page bio is now editable from Obsidian alongside `/now` and blog posts.
 - 2026-05-18 — [[blog/2026-05-18-runway-week-2-underneath|Runway Week 2: Underneath]] — third check-out (draft, publishes Mon): KPI sheet automation, AI Overview absorption, the $11K Amazon decision, #notify attribution rebuilt. Categorized `holstee`, `automation`.
