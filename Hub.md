@@ -14,6 +14,7 @@
 - **`blog/`** — one .md per post.
 - **`now.md`** — rolling "what I'm working on now" page.
 - **`about.md`** — the About section that renders on the home page.
+- **`how-i-work.md`** — the How I work section on the home page.
 
 ## How publishing works
 
@@ -27,6 +28,7 @@ Drafts (`draft: true`) can be pushed freely — the build filters them out, so t
 
 ## Recent notes
 
+- 2026-05-26 — [[how-i-work|How I work]] — extracted from `index.astro` so the home page contact section is now editable from Obsidian.
 - 2026-05-26 — [[about|About]] — extracted from `index.astro` so the home page bio is now editable from Obsidian alongside `/now` and blog posts.
 - 2026-05-18 — [[blog/2026-05-18-runway-week-2-underneath|Runway Week 2: Underneath]] — third check-out (draft, publishes Mon): KPI sheet automation, AI Overview absorption, the $11K Amazon decision, #notify attribution rebuilt. Categorized `holstee`, `automation`.
 - 2026-05-15 — [[Career/Dave site feedback - michaelrad.me - 2026-05-15|Dave's site feedback]] — call reviewing the new site: homepage, About copy, blog, voice. Voice rewrite is the priority.
