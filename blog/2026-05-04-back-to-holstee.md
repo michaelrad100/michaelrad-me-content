@@ -20,4 +20,4 @@ I'm in as a contributor (apparently [this is now a thing](https://www.elenaverna
 
 I have a juicy list of fix's like this within Holstee that I plan to knock out one at a time. As of right now, I see this as a temporary role with an uncertain enddate.
 
-I do know that I don't feel called to be  the leader, or face of Holstee. I do want to learn all the way I can help holstee become a better business, as highly focused operator within the business. 
+I do know that I don't feel called to be  the leader, or face of Holstee. I do want to learn all the way I can help holstee become a better business, as highly a focused operator within the business. 

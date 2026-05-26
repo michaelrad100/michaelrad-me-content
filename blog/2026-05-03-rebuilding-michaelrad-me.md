@@ -9,13 +9,13 @@ categories:
 slug: rebuilding-michaelrad-me
 ---
 
-Until last week, michaelrad.me was built on [Gamma](https://gamma.app/). Gamma is incredibly fast way to get up a single page site, but as my personal page, I increasingly felt it was missing two things: space for my writing and for my past work. In the process I explored options like [framer](https://www.framer.com/ai/) and other ai site building platforms. There's many impressive options in this space now.
+Until last week, michaelrad.me was built on [Gamma](https://gamma.app/). Gamma is a great for building a quick site (or presentation), but as my personal page, I want more than just the single page option. I want write more, and document my own work, and want to do it in a more flexible manner. In the process I explored options like [framer](https://www.framer.com/ai/) and other ai site building platforms.
 
-Ultimately, I wanted something that didn't lock the site or it's content into a platform and I wanted the backend to be as simple to manage as possible. 
+Ultimately, I didn't feel it was worthwhile to be locked into a platform. I also wanted the backend to be as simple to manage as possible. 
 
 As a regular note taker in Obsidian, I wondered if I could have a folder that basically acted like the CMS for the site? Where getting up a new blog post could be as simple as creating a note.
 
-In the age of ai, I've learned to live by the mantra "ask and you will probably receive." (more on how Obsidian super charged my claude code experience here). Long story short, that exactly how this site was built.
+In the age of ai, I've learned to live by the mantra "ask and you will probably receive." (more on how Obsidian super charged my claude code experience here). Long story short, that is exactly how this site was built.
 
 The stack is [Astro](https://astro.build/) for the static site, [Railway](https://railway.com/) for hosting, and the blog and "now" page authored as plain markdown in my [Obsidian](https://obsidian.md/) vault. It took a bit of back and forth to get everything dialed in but it's honestly everything I imagined. Frictionless to edit or transition to different set up if needed, and nearly free to operate.
 
@@ -35,4 +35,4 @@ Incase you are thinking to do the same, here are a a few decisions I made along 
 
 What I'd do differently: I tried bridging the two repos with a git submodule, which is the textbook approach. It worked locally, but Railway's build container strips the `.git` directory before the build runs, so `git submodule update` had nothing to work against. After fighting it for a session, I switched to just `git clone` the content repo directly in the build command. Less elegant, and it works first time. The lesson is one I keep relearning: when the elegant approach fights the platform, switch to the dumb one.
 
-It's been a fun one to build. What a time to be alive.
+It's been a fun one to build. What a time to be alive!

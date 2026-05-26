@@ -39,7 +39,7 @@ The lesson I'm taking forward: when an API silently behaves differently from how
 
 **Pinterest API integration prepped, not yet wired.**
 
-Built `pinterest-create-pin` and an OAuth helper alongside the Shopify scripts. The theory: every refresh should get a matching Pinterest pin, and manual pinning is one of those five-minute tasks that adds up to a full workday over the year. Whether the API plays nice is a next-week question.
+Built `pinterest-create-pin` and an OAuth helper alongside the Shopify scripts. The theory: every refresh should get a matching Pinterest pin, and manual pinning is one of those five-minute tasks with a painful transition cost. Whether the API plays nice is a next-week question.
 
 **On deck for the Sprint 1 close week**
 
