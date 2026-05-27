@@ -9,7 +9,7 @@ categories:
 slug: how-id-allocate-10m-in-consumer
 ---
 
-Recently a friend / VC posed an interesting question:
+Recently a friend / Investor posed an interesting question:
 
 >How would you allocate $10M into a Consumer Products Holdco today? 
 
