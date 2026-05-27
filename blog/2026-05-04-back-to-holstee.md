@@ -10,7 +10,7 @@ I'm back at Holstee as an individual contributor, for an eight-week run of focus
 
 I stepped back from operations in January 2025 after 15 years. The business has run without me since (more on that year off in  a future post).
 
-The team is autonomous now, which is made this return so appealing. I'm using the opportunity to put into practice some tools I've been playing with recently. I plan to implement this in two distinct two sprint series:
+The team is autonomous now, which is what made this return so appealing. I'm using the opportunity to put into practice some tools I've been playing with recently. I plan to implement this in two distinct two sprint series:
 
 **Sprint Series 1: Operational Efficiency.** We're a resource-strapped team with big ambitions. The goal is to free up bandwidth by automating maintenance-y work.
 

@@ -1,15 +1,15 @@
 ---
-title: "Runway Week 2: Underneath"
+title: "Holstee Sprint Week Three"
 date: 2026-05-18
 description: "Kim's 14-year KPI sheet started filling itself in, QuickBooks came off manual export, and Google's AI Overview showed up in the search numbers."
 draft: false
 categories: [holstee, automation]
-slug: runway-week-2-underneath
+slug: holstee-sprint-week-three
 ---
 
 Some weeks the work shows up on the website. This wasn't one of them. No refresh went live, no new post.
 
-Back in [Week 0](/blog/runway-week-0-setting-up/) I wrote about wanting to skip ahead and build the reporting automation, and making myself wait until I'd run the process by hand first. This was the week the wait ended. The whole thing happened underneath, and it was the most satisfying week of Runway so far.
+Back in [Week One](/blog/holstee-sprint-week-one/) I wrote about wanting to skip ahead and build the reporting automation, and making myself wait until I'd run the process by hand first. This was the week the wait ended. The whole thing happened underneath, and it was the most satisfying week of Runway so far.
 
 **The KPI sheet fills itself in now**
 
@@ -47,7 +47,7 @@ Holstee has a Slack channel called #notify. Every paid order and every new membe
 
 I traced it to a broken Zapier setup and rebuilt both notifications. Orders now arrive with their source, campaign, and landing page, and whether the buyer is new or returning. Membership signups carry their source too, plus a flag for whether the person paid full price or came in on a promo.
 
-[Last week's check-in](/blog/runway-week-1-calibrate/) named top-of-funnel as the priority for the rest of Runway. You can't put attention on top-of-funnel if you can't see which funnel a customer came through. This week, #notify can see again.
+[Last week's check-in](/blog/holstee-sprint-week-two/) named top-of-funnel as the priority for the rest of Runway. You can't put attention on top-of-funnel if you can't see which funnel a customer came through. This week, #notify can see again.
 
 **On deck**
 

@@ -31,10 +31,10 @@ Drafts (`draft: true`) can be pushed freely — the build filters them out, so t
 - 2026-05-26 — [[blog/2026-05-26-permit-data-playbook|Permit data, contractors, and a 35% lift]] — retrospective recap of the spring 2025 garage-door consulting engagement, surfaced into a Recent Work card. Categorized `career`, `home-services`.
 - 2026-05-26 — [[how-i-work|How I work]] — extracted from `index.astro` so the home page contact section is now editable from Obsidian.
 - 2026-05-26 — [[about|About]] — extracted from `index.astro` so the home page bio is now editable from Obsidian alongside `/now` and blog posts.
-- 2026-05-18 — [[blog/2026-05-18-runway-week-2-underneath|Runway Week 2: Underneath]] — third check-out (draft, publishes Mon): KPI sheet automation, AI Overview absorption, the $11K Amazon decision, #notify attribution rebuilt. Categorized `holstee`, `automation`.
+- 2026-05-18 — [[blog/2026-05-18-holstee-sprint-week-three|Holstee Sprint Week Three]] — third check-out (draft, publishes Mon): KPI sheet automation, AI Overview absorption, the $11K Amazon decision, #notify attribution rebuilt. Categorized `holstee`, `automation`.
 - 2026-05-15 — [[Career/Dave site feedback - michaelrad.me - 2026-05-15|Dave's site feedback]] — call reviewing the new site: homepage, About copy, blog, voice. Voice rewrite is the priority.
-- 2026-05-11 — [[blog/2026-05-11-runway-week-1-calibrate|Runway Week 1: Calibrate]] — second check-out: Social Comparison refresh, April Health Report v0, Pinterest API decision, strategic check-in. Categorized `holstee`, `automation`.
-- 2026-05-05 — [[blog/2026-05-05-runway-week-0-setting-up|Runway Week 0: Setting up]] — first check-out: Sprint Plan locked, 14 governing decisions, Neurons refresh shipped via API, the published_at incident. Categorized `holstee`, `automation`.
+- 2026-05-11 — [[blog/2026-05-11-holstee-sprint-week-two|Holstee Sprint Week Two]] — second check-out: Social Comparison refresh, April Health Report v0, Pinterest API decision, strategic check-in. Categorized `holstee`, `automation`.
+- 2026-05-05 — [[blog/2026-05-05-holstee-sprint-week-one|Holstee Sprint Week One]] — first check-out: Sprint Plan locked, 14 governing decisions, Neurons refresh shipped via API, the published_at incident. Categorized `holstee`, `automation`.
 - 2026-05-04 — [[blog/2026-05-04-back-to-holstee|Back to Holstee, for a sprint]] — series intro announcing the 8-week Runway period. Categorized `holstee`, `automation`.
 - 2026-05-03 — [Session Log](file:///Users/michaelradparvar/Documents/claude/code/michaelrad.me/site/docs/session-log.md) — paused mid-Phase-4 just before Railway project creation. Phases 0–3 done, both repos on GitHub.
 

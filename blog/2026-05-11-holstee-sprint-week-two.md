@@ -1,10 +1,10 @@
 ---
-title: "Runway Week 1: Calibrate"
+title: "Holstee Sprint Week Two"
 date: 2026-05-11
 description: "Two refreshes shipped, the April health report ran, and the Pinterest API saga ended in a clean decision."
 draft: false
 categories: [holstee, automation]
-slug: runway-week-1-calibrate
+slug: holstee-sprint-week-two
 ---
 
 Felt like a turning-the-corner kind of week. A few things I'd been chipping away at for a while actually shipped, a couple of decisions I'd been sitting on got made, and a mid-week check-in clarified the priority for the rest of Runway in a way that made everything a lot cleaner.
@@ -13,7 +13,7 @@ Sprint 1 is essentially closed, and chunks of Sprint 2 got pulled forward into n
 
 **The second refresh: Social Comparison Theory**
 
-Last week's check-out covered the [Neurons refresh](/blog/runway-week-0-setting-up/) and the new API-driven publish flow. This week, [Social Comparison Theory](https://www.holstee.com/blogs/mindful-matter/social-comparison-theory) shipped Wednesday, a day ahead of schedule.
+Last week's check-out covered the [Neurons refresh](/blog/holstee-sprint-week-one/) and the new API-driven publish flow. This week, [Social Comparison Theory](https://www.holstee.com/blogs/mindful-matter/social-comparison-theory) shipped Wednesday, a day ahead of schedule.
 
 243,366 impressions a year, 106 clicks. CTR of 0.04%, the lowest of any post in the refresh backlog. Average position 10.74, right at the page 1 / page 2 boundary.
 
