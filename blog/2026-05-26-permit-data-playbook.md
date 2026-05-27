@@ -1,9 +1,11 @@
 ---
-title: "Permit data, contractors, and a 35% lift"
+title: Permit data, contractors, and a 35% lift
 date: 2026-05-26
-description: "Five months consulting for a Los Angeles home services company between Holstee runs — the permit-driven outreach system and what it produced."
+description: Five months consulting for a Los Angeles home services company between Holstee runs — the permit-driven outreach system and what it produced.
 draft: false
-categories: [career, home-services]
+categories:
+  - career
+  - home-services
 slug: permit-data-playbook
 ---
 Between stepping back from Holstee at the start of 2025 and finding my way back in early 2026, I spent five months as a business development consultant for a Los Angeles garage door installation company. This is a short recap of what I did and what I learned.
