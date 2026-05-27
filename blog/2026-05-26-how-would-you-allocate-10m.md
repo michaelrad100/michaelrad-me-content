@@ -15,7 +15,7 @@ Recently a friend / Investor posed an interesting question:
 
 Over the past few years I've witnessed the potential for consumer brands to run incredibly lean, high quality operations with proper AI implementation. In the beginning of May, I turned my attention back to Holstee after stepping back for a year, and in 3 short weeks I've done more than I would have in 3 months at a fraction of the cost. So this question was timely for me, though I hadn't thought about it at this scale. After sitting with the question for a day, I started to see the picture more clearly.
 
-If I had $10M to allocate, my inclination would be a concentrated portfolio. I'd pick five to seven bets, weighted toward businesses where taste and brand are the moat and AI is operational leverage underneath.
+If I had $10M to allocate, I would aim for a concentrated portfolio. I'd pick five to seven bets, weighted toward businesses where taste and brand are the moat and AI is operational leverage underneath.
 
 Concentrated because the holdco's real job is being useful to each operator, and that doesn't scale across twenty bets. Five to seven is a number where you can actually know the brand, plus I wouldn't want to go much higher at this budget. I'd be on the hunt for less mature versions of [Aesop](https://www.aesop.com/), [Le Labo](https://www.lelabofragrances.com/), or modern kitchen icons like [Brightland](https://www.brightland.co/), where the brand following is fiercely loyal, the founder's taste _is_ the product, and the aesthetic can't be cloned by a competitor in a quarter.
 
