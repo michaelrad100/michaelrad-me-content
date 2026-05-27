@@ -7,7 +7,7 @@ categories: [holstee, automation]
 slug: runway-week-0-setting-up
 ---
 
-Spent the weekend writing the Sprint Plan I introduced [last post](/blog/back-to-holstee/). Eight weeks, four 2-week sprints, hard deadline of June 30. I tried to fit everything into a looser "we'll see how the first sprint goes" frame, but the moment I wrote down the actual capacity number (15 hours a week from me, two streams in parallel, never three) the plan basically wrote itself.
+I spent the weekend writing the Sprint Plan I introduced [last post](/blog/back-to-holstee/). Eight weeks, four 2-week sprints, hard deadline of June 30. I tried to fit everything into a looser "we'll see how the first sprint goes" frame, but the moment I wrote down the actual capacity number (15 hours a week from me, two streams in parallel, never three) the plan basically wrote itself.
 
 Fourteen decisions came out of that weekend. Most are tactical: no Klaviyo work until email has a dedicated owner, product pages stay out of scope unless something breaks, no infrastructure unless it costs less than ten minutes to set up. A few set the spine of the work.
 

@@ -6,16 +6,16 @@ draft: false
 categories: [holstee, automation]
 slug: back-to-holstee
 ---
-In January 2025 I began to transition out of Holstee, handing over as much of my day to day role as possible. Holstee at recently reached it's 15 year milestone, and our family was expecting our third daughter. This was the first such break from Holstee I've had since founding it, and it was much needed.
+I'm back at Holstee as an individual contributor, for an eight-week run of focused sprints.
 
-Now 1.5 years later. I decd  So now I have the freedom to do anything. I'm choosing to use that time for series of focused sprints helping the business to leverage all that 2026 has to offer.
+I stepped back from operations in January 2025 after 15 years. The business has run without me since. More on that year off in another post.
 
-I used my new found time with our growing family and did my best to embrace the uncertainty of what might come next. Luckily, nothing quite narrows your vision like a newborn. Having time to spend with her and see how her two older sisters instantly matured and embraced the role of caretakers was precious.
+The team is 99% autonomous now, which is the only reason this re-entry works. I'm running two sprint series (with the team's permission).
 
-I explored a range of possibilities, all the while tinkering with AI's latest and great tools. I could see how a small 'legacy' business could automate so much of the daily maintenance, allowing a lean team to punch far above their weight. If only I had a place where I could experiment put this into practice and of course, it was right there staring at me, Holstee.
+**Sprint Series 1: Operational Efficiency.** We're a resource-strapped team with big ambitions. The goal is to free up everyone's time so they can focus on the work where they add the most value.
 
- an individual contributor/ operator () (apparently [this is now a thing](https://www.elenaverna.com/p/ic-work-is-the-new-career-flex?utm_source=cross-post&publication_id=1435249&post_id=197715098&utm_campaign=10845&isFreemail=false&r=37ut5&triedRedirect=true&utm_medium=email)), with weekly sprints are cleanly scoped out and driving a much larger impact than I ever thought possible. I have to say the feeling of taking a manual repetitive task, like monthly kpi ledger, which we've tracked by hand for 10+ years in a gdoc and having it programmatically populate each month is work that I find incredibly satisfying. 
+**Sprint Series 2: Growth.** Holstee has big upside on top-of-funnel and conversion. Nearly all of our revenue today comes from the email list and partnerships, so that's where the growth work concentrates.
 
-I have a juicy list of sprints like this within Holstee that I plan to knock out one at a time. As of right now, I see this as a temporary role with an uncertain enddate.
+I don't see this as a long-term role, but stepping back in as an IC feels as freeing and fun as I could imagine. The impact-per-hour also feels outsized. I'll document the progress here as I go.
 
-I do know that I don't feel called to be  the leader, or face of Holstee. I do want to learn all the way I can help holstee become a better business, as highly a focused operator within the business. 
+*Shortly after writing this I read that being a high impact individual contributor (HI-C) is [the new career flex](https://www.elenaverna.com/p/ic-work-is-the-new-career-flex). I didn't do it for the flex, but the framing fits.*
