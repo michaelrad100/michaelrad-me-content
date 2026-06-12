@@ -1,6 +1,6 @@
 ---
 title: Permit data, contractors, and a 35% lift
-date: 2026-05-26
+date: 2026-03-26
 description: Five months consulting for a Los Angeles home services company between Holstee runs — the permit-driven outreach system and what it produced.
 draft: false
 categories:

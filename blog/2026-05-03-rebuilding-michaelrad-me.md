@@ -9,11 +9,11 @@ categories:
 slug: rebuilding-michaelrad-me
 ---
 
-Until last week, michaelrad.me was built on [Gamma](https://gamma.app/). Gamma is a great for building a quick site (or presentation), but as my personal page, I want more than just the single page option. I want write more, and document my own work, and want to do it in a more flexible manner. In the process I explored options like [framer](https://www.framer.com/ai/) and other ai site building platforms.
+Until last week, michaelrad.me was built on [Gamma](https://gamma.app/). Gamma is a great for building a quick site (or presentation), but as my personal page, I want more than just the single page option. I want to write more, document my own work, and do it in a more flexible manner. In the process I explored options like [framer](https://www.framer.com/ai/) and other ai site building platforms.
 
 Ultimately, I didn't feel it was worthwhile to be locked into a platform. I also wanted the backend to be as simple to manage as possible. 
 
-As a regular note taker in Obsidian, I wondered if I could have a folder that basically acted like the CMS for the site? Where getting up a new blog post could be as simple as creating a note.
+As a regular note taker in Obsidian, I wondered if I could set up a system allowed me to use my notes as the CMS for the site? Essentially, I wanted each new blog post to be as frictionless as  as creating a note.
 
 In the age of ai, I've learned to live by the mantra "ask and you will probably receive." (more on how Obsidian super charged my claude code experience here). Long story short, that is exactly how this site was built.
 
