@@ -1,9 +1,11 @@
 ---
-title: "Holstee Sprint Week Three"
+title: Holstee Sprint Week Three
 date: 2026-05-18
-description: "Kim's 14-year KPI sheet started filling itself in, QuickBooks came off manual export, and Google's AI Overview showed up in the search numbers."
+description: Holstee's 14-year old KPI sheet started filling itself in, QuickBooks came off manual export, and Google's AI Overview showed up in the search numbers.
 draft: false
-categories: [holstee, automation]
+categories:
+  - holstee
+  - automation
 slug: holstee-sprint-week-three
 ---
 
